@@ -1,4 +1,10 @@
-meow
+note meow
 cold and dry, but everything is my favorite color
 the wolf man
+<<<<<<< HEAD
 meow
+=======
+
+Whew, made it here, now to make changes -- Sean
+Meow
+>>>>>>> 4a0199831c070d04c84cc842a9fe4dbd7d304302
